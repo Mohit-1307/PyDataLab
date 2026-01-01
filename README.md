@@ -1,20 +1,30 @@
 # 🧪 PyDataLab
+
 A hands-on Python Data Science learning repository with practical examples using core scientific libraries like NumPy, Pandas, and Matplotlib.
 This project is designed for learning by doing—helping you build strong fundamentals in data manipulation, analysis, and visualization using real datasets.
 
 # 🚀 Why PyDataLab?
+
 ✔️ Beginner-friendly and structured
+
 ✔️ Focuses on core Python data libraries
+
 ✔️ Example-driven learning (not just theory)
+
 ✔️ Uses real-world datasets
+
 ✔️ Ideal for quick revision and experimentation
 
 # 🎯 Who Is This For?
+
 PyDataLab is ideal for:
 
 ✔️ 🎓 Students learning Data Science fundamentals
+
 ✔️ 🧠 Beginners starting with NumPy, Pandas & Matplotlib
+
 ✔️ 👨‍💻 Engineers transitioning into Data Analytics / ML
+
 ✔️ 📊 Anyone who wants hands-on Python practice
 
 # 📚 Learning Outcomes
@@ -141,13 +151,13 @@ The repository is organized by library, making it easy to learn step-by-step.
 
 🛠️ Tech Stack & Tools
 
-🐍 Python
+* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="26"/> Python
 
-🔢 NumPy – Numerical computation
+* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="26"/> Numpy – Numerical computation
 
-🧮 Pandas – Data manipulation
+* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="26"/> Pandas – Data manipulation
 
-📊 Matplotlib – Data visualization
+* <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="26"/> Matplotlib – Statistical data visualization
 
 ---
 
