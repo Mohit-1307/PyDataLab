@@ -81,12 +81,16 @@ The project is organized by Python libraries. Each folder focuses on a specific 
 
 ---
 
-## 🛠 Requirements
+## ▶️ How to Run
 
-- Python **3.8+**
-- pip (Python package manager)
+bash
+git clone https://github.com/Mohit-1307/Python-Libraries.git
+cd machine-learning-blueprint
+pip install -r requirements.txt
+jupyter notebook
 
-Check your Python version:
+---
 
-```bash
-python --version
+## ⭐ Support
+
+If you find this repository helpful, feel free to star ⭐ the repo and share it!
