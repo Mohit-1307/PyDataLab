@@ -135,20 +135,6 @@ The repository is organized by library, making it easy to learn step-by-step.
 
 ---
 
-## Documentation
-
-📄 README.md
-
-* Explains the purpose of the repository
-
-* Describes folder structure
-
-* Guides learners on how to use the examples
-
-* Acts as a quick reference
-
----
-
 ## 🛠️ Tech Stack & Tools
 
 * <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="26"/> Python
@@ -169,6 +155,20 @@ Open notebooks or .py files in your preferred editor or Jupyter environment.
 
 ---
 
+## 📘 Documentation
+
+📄 README.md
+
+* Explains the purpose of the repository
+
+* Describes folder structure
+
+* Guides learners on how to use the examples
+
+* Acts as a quick reference
+
+---
+
 ## 🌟 Support & Contribution
 
 If this repository helps you:
@@ -181,7 +181,7 @@ Feel free to open issues or submit pull requests.
 
 ---
 
-# 📌 Author
+## 📌 Author
 
 Mohit Singh Rajput 
 #### Machine Learning & Data Science Enthusiast
