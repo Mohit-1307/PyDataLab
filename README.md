@@ -15,7 +15,7 @@ This repository is designed for **hands-on learning**, quick revision, and exper
 
 ---
 
-📂 Repository Structure
+📂 Project Structure
 
 The project is organized by Python libraries. Each folder focuses on a specific library with practical examples.
 
