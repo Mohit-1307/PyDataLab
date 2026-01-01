@@ -1,4 +1,4 @@
-## <img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" height="28"/> - Libraries
+## <img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" height="28"/> PyDataLab
 
 A structured learning repository containing practical Python examples for popular data science and scientific computing libraries such as **NumPy**, **Pandas**, and **Matplotlib**.
 
