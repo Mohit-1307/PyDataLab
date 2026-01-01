@@ -59,7 +59,7 @@ The repository is organized by library, making it easy to learn step-by-step.
 
 ### 1️⃣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="26"/> Numpy – Numerical Computing
 
-#### 📂 _numpy/
+📂 _numpy/
 
 * Learn the fundamentals of numerical computing with NumPy.
 
@@ -77,7 +77,7 @@ The repository is organized by library, making it easy to learn step-by-step.
 
 ### 2️⃣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="26"/> Pandas – Data Analysis & Manipulation
 
-#### 📂 _pandas/
+📂 _pandas/
 
 * Work with structured datasets using Pandas.
 
@@ -99,7 +99,7 @@ The repository is organized by library, making it easy to learn step-by-step.
 
 ### 3️⃣ <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="26"/> Matplotlib – Data Visualization
 
-#### 📂 _matplotlib/
+📂 _matplotlib/
 
 * Visualize data to uncover patterns and insights.
 
@@ -117,7 +117,7 @@ The repository is organized by library, making it easy to learn step-by-step.
 
 ### 4️⃣ Dataset Used
 
-#### 📄 pokemon.csv
+📄 pokemon.csv
 
 * A real-world dataset used across Pandas and Matplotlib examples.
 
@@ -132,6 +132,12 @@ The repository is organized by library, making it easy to learn step-by-step.
 * Speed and other attributes
 
 * This dataset helps demonstrate practical data analysis and visualization.
+
+---
+
+## ⚙️ .gitignore
+
+Ignore rules for Python, Jupyter, virtual environments, and system files.
 
 ---
 
