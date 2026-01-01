@@ -9,8 +9,11 @@ This repository is designed for **hands-on learning**, quick revision, and exper
 ## 📌 Objectives
 
       - Learn core Python libraries through examples
+      
       - Practice data manipulation and visualization
+      
       - Build a strong foundation for data science & ML
+      
       - Keep reference code organized and reusable
 
 ---
