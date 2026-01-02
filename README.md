@@ -320,16 +320,6 @@ python --version
 
 * 💻 Works on Windows, macOS, and Linux
 
-#### 🎯 This Repository Is Designed For
-
-* Strong Python data fundamentals
-
-* Hands-on practice with NumPy, Pandas & Matplotlib
-
-* Quick revision and experimentation
-
-* Building a solid base for Machine Learning & Data Science
-
 ---
 
 ## 📘 Documentation
