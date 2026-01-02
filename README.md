@@ -53,7 +53,112 @@ No prior ML knowledge required.
 
 ---
 
-## 🧩 Project Structure
+## 🗺️ Learning Path
+
+### 🧭 Visual Roadmap (PyDataLab → Machine Learning Readiness)
+
+📌 Follow this path sequentially to build strong Python data fundamentals and smoothly transition into Machine Learning.
+
+```
+FOUNDATION
+│
+├── Python Basics for Data Science
+│   ├── Variables & Data Types
+│   ├── Loops & Conditionals
+│   ├── Functions
+│   └── Working with Scripts & Notebooks
+│
+NUMPY — NUMERICAL COMPUTING
+│
+├── NumPy Fundamentals
+│   ├── Creating Arrays
+│   ├── Array Shapes & Dimensions
+│   ├── Indexing & Slicing
+│   └── Data Types
+│
+├── NumPy Operations
+│   ├── Vectorized Operations
+│   ├── Broadcasting
+│   ├── Mathematical Functions
+│   └── Aggregations & Statistics
+│
+├── Practical NumPy Usage
+│   ├── Performance vs Python Lists
+│   ├── Numerical Simulations
+│   └── Preparing Data for Analysis
+│
+PANDAS — DATA ANALYSIS & MANIPULATION
+│
+├── Pandas Basics
+│   ├── Series & DataFrames
+│   ├── Reading CSV Files
+│   ├── Inspecting Data
+│   └── Basic Indexing
+│
+├── Data Cleaning & Preparation
+│   ├── Handling Missing Values
+│   ├── Data Type Conversion
+│   ├── Renaming Columns
+│   └── Removing Duplicates
+│
+├── Data Manipulation
+│   ├── Filtering & Sorting
+│   ├── GroupBy & Aggregations
+│   ├── Applying Functions
+│   └── Merging & Joining Data
+│
+├── Exploratory Data Analysis (EDA)
+│   ├── Summary Statistics
+│   ├── Distribution Analysis
+│   ├── Correlation Analysis
+│   └── Insights from Real Datasets
+│
+MATPLOTLIB — DATA VISUALIZATION
+│
+├── Visualization Fundamentals
+│   ├── Line Plots
+│   ├── Bar Charts
+│   ├── Scatter Plots
+│   └── Histograms
+│
+├── Plot Customization
+│   ├── Titles & Labels
+│   ├── Legends & Grids
+│   ├── Colors & Styles
+│   └── Figure Sizing
+│
+├── Visual Analysis
+│   ├── Comparing Features
+│   ├── Trend Analysis
+│   └── Data-Driven Storytelling
+│
+REAL-WORLD DATA PRACTICE
+│
+├── Pokémon Dataset Analysis
+│   ├── Understanding Dataset Structure
+│   ├── Feature Comparison (HP, Attack, Speed)
+│   ├── Type-wise Analysis
+│   └── Visualization-Backed Insights
+│
+ML READINESS
+│
+├── Data Preparation for ML
+│   ├── Feature Selection
+│   ├── Handling Categorical Variables
+│   ├── Scaling & Normalization (Conceptual)
+│   └── Train-Test Thinking
+│
+└── Next Steps
+    ├── Scikit-Learn
+    ├── Regression & Classification
+    ├── Model Evaluation
+    └── End-to-End ML Projects
+    |
+```
+
+---
+
+## 🧩 Course Structure
 
 The repository is organized by library, making it easy to learn step-by-step.
 
